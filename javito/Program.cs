@@ -17,7 +17,7 @@
     new Airplane("Airbus", "A380-800",  "Emirates"){Rating = 9.6 },
 
     new Airplane("Embraer", "E195-E2",  "KLM"){Rating = 8.9 },
-
+    
     new Airplane("Bombardier", "CRJ900",  "Lufthansa"){Rating = 8.1 },
 
     new Airplane("ATR", "ATR 42-600",  "Air France"){Rating = 7.7 },
